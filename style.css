@@ -26,7 +26,7 @@ body {
 header {
     height: 200px;
     width: 100%;
-    background-color: rgb(234, 247, 56);
+    background-color: #ffff83;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -38,7 +38,7 @@ header {
 
 section {
     width: 100%;
-    background-color: #feff60;
+    background-color: #fdfd96;
     display: flex;
     justify-content: center;
     display: flex;
