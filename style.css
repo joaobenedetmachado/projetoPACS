@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(224, 185, 134);
+    background-color: #09090a;
     min-width: 100vw;
     min-height: 100vh;
     align-items: center;
@@ -26,7 +26,7 @@ body {
 header {
     height: 200px;
     width: 100%;
-    background-color: #c157c1;
+    background-color: #8257e5;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -38,7 +38,7 @@ header {
 
 section {
     width: 100%;
-    background-color: #fdfd96;
+    background-color:#202024;
     display: flex;
     justify-content: center;
     display: flex;
