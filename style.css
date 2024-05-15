@@ -83,6 +83,10 @@ p {
     font-size: 13pt;
 }
 
+h1 {
+    margin-bottom: 20px;
+}
+
 #contato {
     margin-bottom: 70px;
 }
