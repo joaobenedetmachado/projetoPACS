@@ -52,7 +52,7 @@ section {
 }
 
 #sobre {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 #sobre p {
@@ -64,11 +64,11 @@ section {
 }
 
 #objetivos {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 #atividades {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 #atividades p {
@@ -76,7 +76,7 @@ section {
 }
 
 #contribuir {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 p {
@@ -84,7 +84,7 @@ p {
 }
 
 #contato {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 @media (max-width: 600px) {
     #main {
