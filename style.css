@@ -11,6 +11,7 @@ body {
     justify-content: center;
     display: flex;
     font-family: "Radio Canada Big", sans-serif;
+    color: #ffffff;
 }
 
 #main {
