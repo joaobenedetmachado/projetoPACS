@@ -1,5 +1,7 @@
 ## ProjetoPacs
 
+acesse em <a href='https://projetopacs.netlify.app'>projetopacs.netlify.app</a>
+
 Bem-vindo ao ProjetoPacs! Este README fornecerá uma visão geral do site, instruções para acessá-lo e informações sobre o seu conteúdo.
 
 ![ProjetoPacs](https://i.imgur.com/wdTYBOy.png)
@@ -7,10 +9,6 @@ Bem-vindo ao ProjetoPacs! Este README fornecerá uma visão geral do site, instr
 ## Visão Geral
 
 O ProjetoPacs é um site desenvolvido com HTML e CSS, projetado para fornecer informações sobre Pacs, um acervo digital de imagens médicas. O site oferece uma interface simples e intuitiva para os usuários explorarem e aprenderem mais sobre esse tema.
-
-## Acesso ao Site
-
-Você pode acessar o ProjetoPacs através do seguinte URL: [projeto-pacs.netlify.app](https://projeto-pacs.netlify.app)
 
 ## Conteúdo
 
